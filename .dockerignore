@@ -1,0 +1,4 @@
+./docs
+*.md
+# All markdown files except README.md are excluded
+!READ.md
